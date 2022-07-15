@@ -360,7 +360,7 @@ UNION ALL
 SELECT column_name(s) FROM table2;
 ```
 
-### 7.排序 ORDER
+### 7. 排序 ORDER
 
 - ASC(asecending，升序，默认)
 - DESC(desecending，降序)
